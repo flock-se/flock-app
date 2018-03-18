@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "715635963879",
+    "firebase_url": "https://flock-61206.firebaseio.com",
+    "project_id": "flock-61206",
+    "storage_bucket": "flock-61206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715635963879:android:689467316df23fc0",
+        "android_client_info": {
+          "package_name": "com.flock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715635963879-u23heit5rdj41hjmf4h75ajga1vcsmcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIATBUNkJvk985apa8SgnMyV705YqLKRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
